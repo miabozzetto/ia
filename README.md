@@ -153,4 +153,23 @@ NumPy es una biblioteca que se utiliza para trabajar con cálculos matemáticos 
 
 ⸻
 
+pip es una herramienta que se usa en Python para instalar, actualizar y administrar bibliotecas o paquetes que no vienen incluidos por defecto.
+
+🔹 Su nombre significa “Pip Installs Packages”.
+
+¿Para qué sirve?
+
+Sirve para descargar e instalar librerías desde internet, por ejemplo:
+	•	NumPy
+	•	Pandas
+	•	Matplotlib
+
+Ejemplo de uso
+
+En la terminal o consola se escribe:
+pip install numpy
+Esto descarga e instala la biblioteca NumPy para poder usarla en tus programas de Python.
+
+✅ En resumen:
+pip es el gestor de paquetes de Python que permite instalar y administrar librerías fácilmente.
 
