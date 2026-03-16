@@ -102,3 +102,55 @@ Es la utilidad que tienen los datos cuando se analizan para tomar decisiones.
 ✅ Resumen:
 El Big Data es el manejo y análisis de grandes cantidades de datos, y se caracteriza por 5 aspectos principales: volumen, velocidad, variedad, veracidad y valor. 📈
   
+Aquí tienes un resumen simple de tres bibliotecas muy usadas en Python para análisis de datos:
+
+1. Pandas
+
+Pandas es una biblioteca de Python que se usa para analizar y manipular datos.
+Permite trabajar con tablas de datos (parecidas a las de Excel) llamadas DataFrames.
+
+🔹 Sirve para:
+	•	Organizar datos en tablas
+	•	Limpiar datos
+	•	Filtrar información
+	•	Analizar grandes conjuntos de datos
+
+📌 Ejemplo: analizar datos de encuestas, estadísticas o bases de datos.
+
+⸻
+
+2. Matplotlib
+
+Matplotlib es una biblioteca que se usa para crear gráficos y visualizaciones a partir de datos.
+
+🔹 Permite hacer:
+	•	Gráficos de barras
+	•	Gráficos de líneas
+	•	Histogramas
+	•	Gráficos de dispersión
+
+📌 Se usa mucho para mostrar visualmente los resultados de un análisis de datos.
+
+⸻
+
+3. NumPy
+
+NumPy es una biblioteca que se utiliza para trabajar con cálculos matemáticos y arreglos (arrays) de forma rápida.
+
+🔹 Sirve para:
+	•	Operaciones matemáticas complejas
+	•	Manejar grandes cantidades de números
+	•	Álgebra lineal y estadísticas
+
+📌 Es la base de muchas otras bibliotecas de ciencia de datos.
+
+⸻
+
+✅ En resumen:
+	•	NumPy → trabaja con números y cálculos matemáticos.
+	•	Pandas → organiza y analiza datos en tablas.
+	•	Matplotlib → crea gráficos para visualizar los datos.
+
+⸻
+
+
