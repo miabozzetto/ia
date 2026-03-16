@@ -173,3 +173,24 @@ Esto descarga e instala la biblioteca NumPy para poder usarla en tus programas d
 ✅ En resumen:
 pip es el gestor de paquetes de Python que permite instalar y administrar librerías fácilmente.
 
+Un CSD significa Ciencia de Datos (en inglés Data Science).
+
+Es un campo que combina programación, matemáticas y estadística para analizar grandes cantidades de datos y obtener información útil.
+
+¿Para qué se usa?
+
+Se usa para:
+	•	Analizar datos
+	•	Encontrar patrones o tendencias
+	•	Hacer predicciones
+	•	Tomar decisiones basadas en datos
+
+Herramientas que usa
+
+En Ciencia de Datos se utilizan herramientas de programación como Python y bibliotecas como:
+	•	NumPy → para cálculos matemáticos
+	•	Pandas → para analizar datos
+	•	Matplotlib → para hacer gráficos
+
+✅ En resumen:
+La Ciencia de Datos es la disciplina que usa programación y estadísticas para analizar datos y obtener información importante.
